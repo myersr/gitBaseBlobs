@@ -1,0 +1,21 @@
+## Base gitignore
+# Compacted
+*.zip
+*.tar.gz
+
+### Mac Gitignore
+# Mac stuffs.
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Mac sed bak files
+*.bak
+
+ignoreout.txt
