@@ -1,0 +1,5 @@
+## Base gitignore
+# Compacted
+*.zip
+*.tar.gz
+
