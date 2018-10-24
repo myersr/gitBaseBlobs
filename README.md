@@ -1,11 +1,11 @@
 # gitBaseBlobs
 
 ## Customize License 
-Use sed to replace my name in the license file with yours.
+Use sed to replace my name in the license file with yours if using MIT.
 
-Linux: `sed -i 's/Roy Myers/First Last/g' LICENSE`
+Linux: `sed -i 's/Roy Myers/First Last/g' LICENSE.MIT`
 
-Mac: `sed -i .bak 's/Roy Myers/First Last/g' LICENSE && rm LICENSE.bak`
+Mac: `sed -i .bak 's/Roy Myers/First Last/g' LICENSE.MIT && rm LICENSE.MIT.bak`
 
 ## Generate .gitignore  
 
